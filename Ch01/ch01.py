@@ -83,7 +83,7 @@ while i <= 10 :
     print(i)
     i = i + 1 # i += 1
 
- 무한 루프
+#무한 루프
 while True :
     print(i)
     i += 1

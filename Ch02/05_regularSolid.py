@@ -22,7 +22,6 @@ for k in range(len(a)) :
 
 for t in range(len(a)) :
     if a[t] == max :
-        b.append(t+1)
+        print(t+1,end=" ")
 
-print(b)
 

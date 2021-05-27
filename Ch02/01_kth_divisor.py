@@ -3,6 +3,7 @@ problem 1 : K번째 약수
 작성자 : 안예린 (girlwcode)
 작성일 : 21-05-06
 """
+import sys
 N,K = map(int,input().split())
 
 if N >=1 and N <= 10000 :
